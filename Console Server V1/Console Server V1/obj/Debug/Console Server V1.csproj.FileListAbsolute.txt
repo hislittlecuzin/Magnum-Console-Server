@@ -1,0 +1,7 @@
+C:\Users\hislittlecuzin\Documents\Magnum\Console Server V1\Console Server V1\bin\Debug\Console Server V1.exe.config
+C:\Users\hislittlecuzin\Documents\Magnum\Console Server V1\Console Server V1\bin\Debug\Console Server V1.exe
+C:\Users\hislittlecuzin\Documents\Magnum\Console Server V1\Console Server V1\bin\Debug\Console Server V1.pdb
+C:\Users\hislittlecuzin\Documents\Magnum\Console Server V1\Console Server V1\obj\Debug\Console Server V1.csprojAssemblyReference.cache
+C:\Users\hislittlecuzin\Documents\Magnum\Console Server V1\Console Server V1\obj\Debug\Console Server V1.csproj.CoreCompileInputs.cache
+C:\Users\hislittlecuzin\Documents\Magnum\Console Server V1\Console Server V1\obj\Debug\Console Server V1.exe
+C:\Users\hislittlecuzin\Documents\Magnum\Console Server V1\Console Server V1\obj\Debug\Console Server V1.pdb
